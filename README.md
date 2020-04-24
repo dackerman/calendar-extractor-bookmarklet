@@ -12,13 +12,9 @@ Calendar.  When you click it, a popup window gives you the option to
 choose the calendar it looks for.
 
 ### Screenshot
-For the following calendar (note overlaps and a <9 minute gap):
+For the following calendar (note overlaps and a <9 minute gap), this would be the result:
 
-![Calendar](entries.png)
-
-This would be the result
-
-![Extractor window](extractor_window.png)
+![Calendar](entries.png) ![Extractor window](extractor_window.png)
 
 
 ## How to build
