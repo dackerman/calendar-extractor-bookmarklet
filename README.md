@@ -13,9 +13,11 @@ choose the calendar it looks for.
 
 ### Screenshot
 For the following calendar (note overlaps and a <9 minute gap):
+
 ![Calendar](entries.png)
 
 This would be the result
+
 ![Extractor window](extractor_window.png)
 
 
